@@ -1,0 +1,34 @@
+Title Meeting Notes
+Date: 24-05-29
+Participates:
+    - Abhay Gupta
+    - Collin Lim
+    - Felicia Ward
+    - Voleta Palatto
+
+# Notes:
+
+## Current Issues
+- Prior tool, Zapier, does not allow data transfer from Eventbrite to Salesforce anymore
+    - Description of Error: https://community.zapier.com/troubleshooting-99/eventbrite-data-being-forwarded-as-info-requested-29285/index2.ht
+- Donation data needs to be added to salesforce from Eventbrite
+- Participate information since start of April (when Zapier tool broke) needs to be transferred to Salesforce
+- Handwritten participation sheets need to be digitalized into Salesforce
+
+
+## Potential Tasks/Solutions
+
+- Automate or manually add physical event participation forms into salesforce
+    - Potential solution: OCR method (handwriting to digital text)
+        - Create or find tool to give user option to edit individual text conversions based on confidence level
+
+- Find alternate tool to Zapier to transfer eventbrite info to salesforce
+- Fix Zapier to work with prior automation method
+- Create new tool to automate data transfer between two systems
+
+
+## Wrap Up
+- Voleta: Find if Abhay can get access to data for salesforce/eventbrite
+- Collin: Send Abhay the handwritten partipate info and expected digital output format
+- Abhay: Understand Zapier and tools/fixes related to eventbrite/salesforce transfer
+- Abhay: Look up OCR packages and see if useful (later test on data provided by Collin)
