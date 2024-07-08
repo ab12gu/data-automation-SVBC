@@ -1,0 +1,12 @@
+We're trying to replicate that function on our website, which is on the Squarespace.com platform. We are currently experimenting with building the functionalities in the form of a static web page. It covers #1 and #2 of Linktree's feature list below but not #3. Is that something you would be interested in?
+
+1. Connect your TikTok, Instagram, Twitter, website, store, videos, music, podcast, events and more. It all comes together in a link in bio landing page designed to convert.
+
+2. Add your unique Linktree URL to all the platforms and places you find your audience. Then use your QR code to drive your offline traffic online.
+
+3. Track your engagement over time, monitor revenue and learn what’s converting your audience.
+
+Here's our version of Linktree...
+https://bikesiliconvalley.org/links/
+
+
